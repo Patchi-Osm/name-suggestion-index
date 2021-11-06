@@ -1849,7 +1849,7 @@
       }
     },
     {
-      "displayName": "TER Provence - Alpes - Côte d'Azur",
+      "displayName": "TER Provence-Alpes-Côte d'Azur",
       "id": "terprovencealpescotedazur-46b9eb",
       "locationSet": {"include": ["fx"]},
       "tags": {
